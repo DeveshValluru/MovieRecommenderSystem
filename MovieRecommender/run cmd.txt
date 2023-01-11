@@ -1,0 +1,1 @@
+streamlit run "C:\Users\HP\Desktop\MovieRecommender\movies_recommed_system.py"
